@@ -22,3 +22,7 @@ Pitch App is a mobile app, made by Pedro Araujo and Ian Marcony, for voting in a
 See [LICENSE](LICENSE).
 
 Copyright © Pedro&Ian. All Rights Reserved.
+
+### Observation
+
+Never look the commits name
